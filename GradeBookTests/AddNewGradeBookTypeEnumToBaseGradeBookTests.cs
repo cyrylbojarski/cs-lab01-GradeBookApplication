@@ -2,6 +2,7 @@
 using System.IO;
 using GradeBook.GradeBooks;
 using Xunit;
+using GradeBook.Enums;
 
 namespace GradeBookTests
 {
